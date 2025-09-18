@@ -1,0 +1,6 @@
+docling
+colorama
+pydantic
+litellm
+PyPDF2
+ollama
